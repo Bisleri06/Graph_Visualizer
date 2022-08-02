@@ -8,6 +8,7 @@ While solving DSA questions or designing logic for a problem, we often come acro
 This visualizer has basic controls and does the job in a very simple way.<br/>
 It also takes graph input in typical coding competition format.<br/>
 
+Link: 
 
 <h3>Controls</h3>
 
