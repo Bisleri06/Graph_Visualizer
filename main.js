@@ -9,6 +9,8 @@ var edge_from=-1;       //edge creation
 function setup() {
   createCanvas(screen.width-10,1500);
   
+  background('#333');
+  
   let inp = createInput('');
   inp.position(0, 25);
   inp.size(screen.width-20);
@@ -102,6 +104,7 @@ function draw()
   }
 
   clear();
+  background('#333');
   
   textSize(12);
   fill('white');
