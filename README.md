@@ -21,7 +21,7 @@ Drag the nodes around and restructure the graph to view all edges better<br/>
 <h3>Create Graph</h3>
 In case you have a text representation of a graph you can copy it into the text field and click create graph.<br/>
 <h5>Format:</h5>
-The first line contains V and E the number and vertices and number of edges respectively.<br/>
+The first line contains V and E, the number of vertices and number of edges respectively.<br/>
 Next E lines contain two numbers denoting the nodes which are connected by a specific edge.<br/>
 
 
